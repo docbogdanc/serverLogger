@@ -1,14 +1,14 @@
 [
   {
-    name: "John",
-    city: "golf"
+    "name": "John",
+    "city": "golf"
   },
   {
-    name: "Mirc",
-    city: "London"
+    "name": "Mirc",
+    "city": "London"
   },
   {
-    name: "Part",
-    city: "Paris"
+    "name": "Part",
+    "city": "Paris"
   }
 ]
